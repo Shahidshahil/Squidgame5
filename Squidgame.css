@@ -1,0 +1,55 @@
+@font-face {
+  font-family: "Digital";
+  src: url("https://assets.codepen.io/127738/digital-7+%28mono%29.ttf") format("truetype");
+}
+
+.timer {
+  font-family: Digital, monospace;
+  font-size: min(max(14px, 7vw), 46px);
+  color: #d7213c;
+  border: 5px outset #8b8b8b;
+  background: black;
+  text-align: center;
+  padding: 0 20px;
+  position: absolute;
+  bottom: 1.5vw;
+  left: 1.5vw;
+}
+
+.distance {
+  font-family: Digital, monospace;
+  font-size: min(max(14px, 7vw), 46px);
+  color: #d7213c;
+  border: 5px outset #8b8b8b;
+  background: black;
+  text-align: center;
+  padding: 0 20px;
+}
+
+@font-face {
+  font-family: "Digital";
+  src: url("https://assets.codepen.io/127738/digital-7+%28mono%29.ttf") format("truetype");
+}
+
+.timer {
+  font-family: Digital, monospace;
+  font-size: min(max(14px, 7vw), 46px);
+  color: #d7213c;
+  border: 5px outset #8b8b8b;
+  background: black;
+  text-align: center;
+  padding: 0 20px;
+  position: absolute;
+  bottom: 1.5vw;
+  left: 1.5vw;
+}
+
+.distance {
+  font-family: Digital, monospace;
+  font-size: min(max(14px, 7vw), 46px);
+  color: #d7213c;
+  border: 5px outset #8b8b8b;
+  background: black;
+  text-align: center;
+  padding: 0 20px;
+}
